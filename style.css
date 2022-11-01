@@ -1,0 +1,33 @@
+/* Aqui estão os códigos CSS para o curso do Formadores em Ação - Pensamento Computacional */
+
+/*
+Fontes Básicas
+*/
+
+p {
+    font-size: 20px;
+    text-align: justify;
+    color: black
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: right;
+    color: blueviolet;
+}
+
+/*
+Fundo
+*/
+
+body {
+    background-color: chocolate;
+    width: auto;
+    margin: 10px;
+}
