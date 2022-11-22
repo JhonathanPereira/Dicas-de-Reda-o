@@ -1,110 +1,147 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"> <!-- Aqui coloca o acento nas palavras -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Redação Nota Mil</title> <!-- Título que fica na aba -->
+    <link rel="stylesheet" href="style.css"> <!-- Pega as formatações para a página -->
 </head>
 <body>
-    <h3 align="center"><img src="http://www.simplificando.pro.br/imagens/moodle/redacao/rnm/rnm-c1.png" alt="Redação Nota 1000 - Competência 1" /></h3>
-    <h3 align="center"><b>COMPETÊNCIA 1</b></h3>
-    <h3 align="center"><b><i>Demonstrar domínio da modalidade escrita formal da língua portuguesa</i></b></h3>
-    <table align="center" style="border-color: #c8c8c8; border-width: 1px; border-style: solid;">
-    <tbody>
-    <tr>
-    <td>
-    <p>A primeira competência avalia o domínio da modalidade escrita formal da língua portuguesa. Esse domínio será observado na adequação do seu texto em relação tanto às regras gramaticais quanto à fluidez da leitura, que pode ser prejudicada ou beneficiada pela construção sintática.</p>
-    <p>Assim, para que você tenha mais clareza a respeito das expectativas que se têm de um concluinte do ensino médio em termos de domínio da modalidade escrita formal, apresentamos, a seguir, os principais aspectos que guiam o olhar do avaliador no momento de definir o nível em que seu texto se encontra na Competência 1.</p>
-    <p>Em primeiro lugar, você deve se atentar ao fato de que a escrita formal é a modalidade da língua associada a textos dissertativo-argumentativos. Assim, você será alertado sobre a obrigatoriedade de usar a modalidade formal já́ na proposta de redação:</p>
-    </td>
-    </tr>
-    <tr style="background-color: #c8c8c8;">
-    <td>
-    <p style="margin-left: 60px;">“A partir da leitura dos textos motivadores e com base nos conhecimentos construídos ao longo de sua formação, redija texto dissertativo-argumentativo em modalidade <b>escrita formal</b> da língua portuguesa sobre o tema...”</p>
-    </td>
-    </tr>
-    <tr>
-    <td>
-    <p style="text-indent: 1.5em;">Desse modo, o avaliador corrigirá sua redação, nessa competência, considerando os possíveis problemas de construção sintática e a presença de desvios (gramaticais, de convenções da escrita, de escolha de registro e de escolha vocabular).</p>
-    <p style="text-indent: 1.5em;">Em relação à construção sintática, você deve estruturar as orações e os períodos de seu texto sempre buscando garantir que eles estejam completos e contribuam para a fluidez da leitura.</p>
-    <p style="text-indent: 1.5em;">Quanto aos desvios, você deve estar atento aos seguintes aspectos:</p>
-    </td>
-    </tr>
-    <tr style="background-color: #c8c8c8;">
-    <td>
-    <ul>
-    <li style="font-size: 16px;"><p>Convenções da escrita: acentuação, ortografia, separação silábica, uso do hífen e uso de letras maiúsculas e minúsculas.</p></li>
-    <li><p>Gramaticais: concordância verbal e nominal, flexão de nomes e verbos, pontuação, regência verbal e nominal e colocação pronominal.</p></li>
-    <li><p>Escolha de registro: adequação à modalidade formal, isto é, ausência de uso de registro informal e/ou de marcas de oralidade.</p></li>
-    </ul>
-    <p style="margin-left: 30px;"></p>
-    </td>
-    </tr>
-    <tr>
-    <td>
-    <p style="text-indent: 1.5em;">Os quadros a seguir apresentam os seis níveis de desempenho que foram utilizados para avaliar a Competência 1 nas redações do Enem 2017:</p>
-    </td>
-    </tr>
-    </tbody>
-    </table>
-    <p></p>
-    <div align="center">
-    <table border="6" cellspacing="0" cellpadding="0" style="width: 100%; border-color: #424242; border-width: 6px; border-style: solid;" align="center">
-    <tbody>
-    <tr>
-    <td>
-    <p style="text-align: center; text-indent: 0;"><b>200 pontos</b></p>
-    </td>
-    <td>
-    <p style="text-align: center; text-indent: 0;">Demonstra excelente domínio da modalidade escrita formal da língua portuguesa e de escolha de registro. Desvios gramaticais ou de convenções da escrita serão aceitos somente como excepcionalidade e quando não caracterizarem reincidência.</p>
-    </td>
-    </tr>
-    <tr>
-    <td>
-    <p style="text-align: center; text-indent: 0;"><b>160 pontos</b></p>
-    </td>
-    <td>
-    <p style="text-align: center; text-indent: 0;">Demonstra bom domínio da modalidade escrita formal da língua portuguesa e de escolha de registro, com poucos desvios gramaticais e de convenções da escrita.</p>
-    </td>
-    </tr>
-    <tr>
-    <td>
-    <p style="text-align: center; text-indent: 0;"><b>120 pontos</b></p>
-    </td>
-    <td>
-    <p style="text-align: center; text-indent: 0;">Demonstra domínio mediano da modalidade escrita formal da língua portuguesa e de escolha de registro, com alguns desvios gramaticais e de convenções da escrita.</p>
-    </td>
-    </tr>
-    <tr>
-    <td>
-    <p style="text-align: center; text-indent: 0;"><b>80 pontos</b></p>
-    </td>
-    <td>
-    <p style="text-align: center; text-indent: 0;">Demonstra domínio insuficiente da modalidade escrita formal da língua portuguesa, com muitos desvios gramaticais, de escolha de registro e de convenções da escrita.</p>
-    </td>
-    </tr>
-    <tr>
-    <td>
-    <p style="text-align: center; text-indent: 0;"><b>40 pontos</b></p>
-    </td>
-    <td>
-    <p style="text-align: center; text-indent: 0;">Demonstra domínio precário da modalidade escrita formal da língua portuguesa, de forma sistemática, com diversificados e frequentes desvios gramaticais, de escolha de registro e de convenções da escrita.</p>
-    </td>
-    </tr>
-    <tr>
-    <td>
-    <p style="text-align: center; text-indent: 0;"><b>0 ponto</b></p>
-    </td>
-    <td>
-    <p style="text-align: center; text-indent: 0;">Demonstra desconhecimento da modalidade escrita formal da língua portuguesa.</p>
-    </td>
-    </tr>
-    </tbody>
-    </table>
+    <div class="imagem"> <!-- Cria uma divisão para centralizar a imagem -->
+        <img src="rnm-c1.png" alt="Redação Nota 1000 - Competência 1" /> <!-- Insere a imagem na página -->
     </div>
-    <title>Document</title>
+    
+    <div> <!-- Cria uma divisão para centralizar o título e a descrição -->
+        <h1><b>COMPETÊNCIA 1</b></h1>
+        <h3><b><i>Demonstrar domínio da modalidade escrita formal da língua portuguesa</i></b></h3>
+    </div>
+    
+    <div> <!-- Cria uma divisão para a tabela -->
+        <table class="table">
+            
+            <tbody>
+            
+            <tr>
+                <td>
+            
+                    <p>A primeira competência avalia o domínio da modalidade escrita formal da língua portuguesa. Esse domínio será observado na adequação do seu texto em relação tanto às regras gramaticais quanto à fluidez da leitura, que pode ser prejudicada ou beneficiada pela construção sintática.</p>
+                    <p>Assim, para que você tenha mais clareza a respeito das expectativas que se têm de um concluinte do ensino médio em termos de domínio da modalidade escrita formal, apresentamos, a seguir, os principais aspectos que guiam o olhar do avaliador no momento de definir o nível em que seu texto se encontra na Competência 1.</p>
+                    <p>Em primeiro lugar, você deve se atentar ao fato de que a escrita formal é a modalidade da língua associada a textos dissertativo-argumentativos. Assim, você será alertado sobre a obrigatoriedade de usar a modalidade formal já́ na proposta de redação:</p>
+                </td>
+            </tr>
+            
+            <tr class="table-different">
+                <td>
+                    <p class="destaque">“A partir da leitura dos textos motivadores e com base nos conhecimentos construídos ao longo de sua formação, redija texto dissertativo-argumentativo em modalidade <b>escrita formal</b> da língua portuguesa sobre o tema...”</p>
+                </td>
+            </tr>
+            
+            <tr>
+                <td>
+                    <p>Desse modo, o avaliador corrigirá sua redação, nessa competência, considerando os possíveis problemas de construção sintática e a presença de desvios (gramaticais, de convenções da escrita, de escolha de registro e de escolha vocabular).</p>
+                    <p>Em relação à construção sintática, você deve estruturar as orações e os períodos de seu texto sempre buscando garantir que eles estejam completos e contribuam para a fluidez da leitura.</p>
+                    <p>Quanto aos desvios, você deve estar atento aos seguintes aspectos:</p>
+                </td>
+            </tr>
+            
+            <tr class="table-different">
+                <td>
+                    <ul>
+                        <li>
+                            <p>Convenções da escrita: acentuação, ortografia, separação silábica, uso do hífen e uso de letras maiúsculas e minúsculas.</p>
+                        </li>
+                        <li>
+                            <p>Gramaticais: concordância verbal e nominal, flexão de nomes e verbos, pontuação, regência verbal e nominal e colocação pronominal.</p>
+                        </li>
+                        <li>
+                            <p>Escolha de registro: adequação à modalidade formal, isto é, ausência de uso de registro informal e/ou de marcas de oralidade.</p>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+            
+            <tr>
+                <td>
+                    <p>Os quadros a seguir apresentam os seis níveis de desempenho que foram utilizados para avaliar a Competência 1 nas redações do Enem 2022:</p>
+                </td>
+            </tr>
+            
+            </tbody>
+            
+        </table>
+    </div>    
+        
+    <div>
+        <table border="6" cellspacing="0" cellpadding="0" class="table-score">
+            
+            <tbody>
+            
+            <tr>
+                <td>
+                    <p class="table-text"><b>200 pontos</b></p>
+                </td>
+            
+                <td>
+                    <p class="table-text">Demonstra excelente domínio da modalidade escrita formal da língua portuguesa e de escolha de registro. Desvios gramaticais ou de convenções da escrita serão aceitos somente como excepcionalidade e quando não caracterizarem reincidência.</p>
+                </td>
+            </tr>
+    
+            <tr>
+                <td>
+                    <p class="table-text"><b>160 pontos</b></p>
+                </td>
+    
+                <td>
+                    <p class="table-text">Demonstra bom domínio da modalidade escrita formal da língua portuguesa e de escolha de registro, com poucos desvios gramaticais e de convenções da escrita.</p>
+                </td>
+            </tr>
+    
+            <tr>
+                <td>
+                    <p class="table-text"><b>120 pontos</b></p>
+                </td>
+    
+                <td>
+                    <p class="table-text">Demonstra domínio mediano da modalidade escrita formal da língua portuguesa e de escolha de registro, com alguns desvios gramaticais e de convenções da escrita.</p>
+                </td>
+            </tr>
+    
+            <tr>
+                <td>
+                    <p class="table-text"><b>80 pontos</b></p>
+                </td>
+    
+                <td>
+                    <p class="table-text">Demonstra domínio insuficiente da modalidade escrita formal da língua portuguesa, com muitos desvios gramaticais, de escolha de registro e de convenções da escrita.</p>
+                </td>
+            </tr>
+    
+            <tr>
+                <td>
+                    <p class="table-text"><b>40 pontos</b></p>
+                </td>
+    
+                <td>
+                    <p class="table-text">Demonstra domínio precário da modalidade escrita formal da língua portuguesa, de forma sistemática, com diversificados e frequentes desvios gramaticais, de escolha de registro e de convenções da escrita.</p>
+                </td>
+            </tr>
+    
+            <tr>
+                <td>
+                    <p class="table-text"><b>0 ponto</b></p>
+                </td>
+            
+                <td>
+                    <p class="table-text">Demonstra desconhecimento da modalidade escrita formal da língua portuguesa.</p>
+                </td>
+            </tr>
+    
+            </tbody>
+    
+        </table>
+    </div>
+
 </body>
- 
+
 </html>
